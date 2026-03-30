@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "genny-api",
+      "source": "@genny-api/v1.0#pldfr1rluapm1pl",
+      "integrity": "sha512-PGjjL1BJzxhwLcB3YBy70j1pmiUnddKjdG8qI/6aNhhHE+FjY9XQrI4JvK5RCyvv3+PCtgG614LhT061NIW3fQ==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}

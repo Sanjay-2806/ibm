@@ -1,0 +1,10 @@
+# Cloudflare Pages Build Configuration
+# Build command: npm run build
+# Build output directory: .next
+# Root directory: /
+
+# Environment variables needed:
+# GEMINI_API_KEY - Your Google Gemini API key
+
+# Note: Python TTS (pyttsx3) won't work on Cloudflare Pages
+# Consider using a cloud TTS service for production deployment
