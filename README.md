@@ -1,4 +1,4 @@
-# R³S² Bridge Talk - AI Powered Sign Language Translator
+# SignBridge - AI Powered Sign Language Translator
 
 A 3D interactive sign language translator with AI-powered recognition and emoji-based sign language guidance.
 
