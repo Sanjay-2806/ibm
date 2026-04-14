@@ -12,7 +12,7 @@
     "@google/generative-ai": "^0.21.0",
     "@react-three/drei": "^9.88.13",
     "@react-three/fiber": "^8.15.11",
-    "ibm-watson": "^7.11.1",
+    "ibm-watson": "latest",
     "leva": "^0.9.35",
     "next": "14.1.0",
     "react": "^18",
